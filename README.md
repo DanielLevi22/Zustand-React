@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/images/Captura%20de%20tela%202023-12-09%20144359.png" alt="Logo do Projeto" width="200" />
+  <img src="/public/images/Captura%20de%20tela%202023-12-09%20144359.png" alt="Logo do Projeto" width="100%" />
 </p>
 
 # Zustand Video Player 🎥✨
