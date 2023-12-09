@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Pubg Mobile",
+          "lessons": [
+            { "id": "TJaIsXHISxc&t=319s", "title": "2x1 Tdm Pubgm", "duration": "13:45" },
+            { "id": "LsyVv0i8hdY", "title": "Duo com o Ban", "duration": "10:05" },
+            { "id": "6Njz5OxmDc0", "title": "Amassando o Corre", "duration": "06:33" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Pubg ",
+          "lessons": [
+            { "id": "TJaIsXHISxc&t=319s", "title": "2x1 Tdm Pubgm", "duration": "13:45" },
+            { "id": "LsyVv0i8hdY", "title": "Duo com o Ban", "duration": "10:05" },
+            { "id": "6Njz5OxmDc0", "title": "Amassando o Corre", "duration": "06:33" }
+          ]
+        }
+      ]
+    }
+  ]
+}
